@@ -1,2 +1,2 @@
 # IPCA.VC.TP2
-IPCA - Visão por Computador - Trabalho Prático 2
+Visão Computador - 2º Trabalho Prático 
